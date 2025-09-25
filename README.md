@@ -1,16 +1,35 @@
-## Hi there 👋
+# hey there 👋 i'm vikas  
 
-<!--
-**mevikaskulkarni/mevikaskulkarni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 exploring **dsa in c++** & diving deep into **web development**  
+⚡ excited by projects where **software meets hardware**  
+🌐 building cool stuff that connects the **digital and physical worlds**  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 what i’ve built so far
+- 🛒 **amazon clone** – basic e-commerce ui & flow  
+- 🎵 **spotify clone** – frontend music streaming vibes  
+- 🌟 **mysterio 5.0 website** – one-stop hub for my college event (rulebooks, posters, details all in one site)  
+
+---
+
+## 🌱 what’s next?
+right now, it’s just some starter projects here.  
+but stay tuned... something **crazy & impactful** is brewing ⚙️🤯  
+
+---
+
+## 📊 github stats
+![vikas's github stats](https://github-readme-stats.vercel.app/api?username=mevikaskulkarni&show_icons=true&theme=tokyonight)  
+
+![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mevikaskulkarni&layout=compact&theme=tokyonight)  
+
+---
+
+## 📫 let’s connect
+- github: [@mevikaskulkarni](https://github.com/mevikaskulkarni)  
+- linkedin: [@mevikaskulkarni](https://www.linkedin.com/in/mevikaskulkarni)  
+
+---
+
+⭐ *fun fact:* everything’s fun when code makes the real world move.
