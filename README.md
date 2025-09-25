@@ -1,4 +1,4 @@
-# hey there 👋 i'm vikas  
+# hey there 👋 i'm vikas kulkarni
 
 💻 exploring **dsa in c++** & diving deep into **web development**  
 ⚡ excited by projects where **software meets hardware**  
