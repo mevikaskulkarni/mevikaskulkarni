@@ -21,10 +21,9 @@ but stay tuned... something **crazy & impactful** is brewing ⚙️🤯
 
 ## 📊 github stats
 
-![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mevikaskulkarni&layout=compact&theme=vision-friendly-dark&cache_seconds=86400)
+![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mevikaskulkarni&layout=compact&theme=radical&cache_seconds=86400)
 
-![vikas's github stats](https://github-readme-stats.vercel.app/api?username=mevikaskulkarni&show_icons=true&theme=tokyonight&cache_seconds=86400)
-
+![vikas's github stats](https://github-readme-stats.vercel.app/api?username=mevikaskulkarni&show_icons=true&theme=radical&cache_seconds=86400)
 ---
 
 ## 📫 let’s connect
